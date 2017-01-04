@@ -17,5 +17,4 @@ dependencies:
     - tensorflow
     - numpy
     - matplotlib
-    - cuda
     - tflearn 
