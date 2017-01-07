@@ -18,3 +18,7 @@ dependencies:
     - numpy
     - matplotlib
     - tflearn 
+    - xlrd
+    - sklearn
+    - scipy
+    - pandas
